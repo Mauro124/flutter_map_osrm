@@ -1,16 +1,5 @@
-# flutter_map_osrm
+# Flutter map with OSRM
 
-A new Flutter project.
+An app testing the integration of the library Flutter Map with the routing engine OSRM. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b3318135-2386-4320-8991-402c2df60bb0/23408f75-6ed9-4e13-a5b6-27fb841efe50/Untitled.png)
